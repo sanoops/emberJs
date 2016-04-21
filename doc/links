@@ -1,1 +1,9 @@
-doc = http://emberjs.com/api
+tutorial	 	->	http://emberjs.com/api
+			->
+
+sample code  login 	->   	https://auth0.com/docs/server-platforms/nodejs
+				https://auth0.com/docs/quickstart/spa/emberjs/nodejs
+			->	http://www.programwitherik.com/setup-your-ember-project-with-node/
+			-> 	https://github.com/abelaska/nodejs-emberjs-mongodb  (best)
+			-> 	https://github.com/mgenev/nodember (1- boilerplate)
+			->	https://github.com/bulkan/node-ember-boilerplate (2- boilerplate)
